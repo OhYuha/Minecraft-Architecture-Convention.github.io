@@ -4,6 +4,5 @@
 
 tp (팀 에겐 가능)
 
-gamemode(대신 gm을 쓰세요
+gamemode(대신 gm을 쓰세요)
 
-ㅇ)pl d

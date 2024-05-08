@@ -6,3 +6,4 @@
 * [금지명령어](undefined-2.md)
 * [신청하기](undefined-3/README.md)
   * [서버팩](undefined-3/undefined-4.md)
+* [공유 링크줄이기](undefined-4.md)
